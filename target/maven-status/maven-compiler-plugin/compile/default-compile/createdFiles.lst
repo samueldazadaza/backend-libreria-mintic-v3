@@ -1,0 +1,14 @@
+com\example\demo\repositories\UsuarioRepository.class
+com\example\demo\DemoApplication.class
+com\example\demo\repositories\VentasRepository.class
+com\example\demo\models\UsuarioModel.class
+com\example\demo\services\UsuarioService.class
+com\example\demo\repositories\LibrosRepository.class
+com\example\demo\controllers\UsuarioController.class
+com\example\demo\models\LibrosModel.class
+com\example\demo\controllers\LibrosController.class
+com\example\demo\models\VentasModel.class
+com\example\demo\services\VentasService.class
+com\example\demo\controllers\VentasController.class
+com\example\demo\services\LibrosService.class
+com\example\demo\ServletInitializer.class
